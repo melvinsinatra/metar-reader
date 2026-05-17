@@ -10,9 +10,6 @@
 !.yarn/releases
 !.yarn/versions
 
-# optional package manager files
-package-lock.json
-
 # testing
 /coverage
 
